@@ -190,6 +190,32 @@
       }
     }
   </style>
+<link rel="canonical" href="https://abd-elrahman-profile.vercel.app/">
+
+<meta name="robots" content="index, follow">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "عبدالرحمن إبراهيم محمد",
+  "jobTitle": "مدير مالي",
+  "url": "https://abd-elrahman-profile.vercel.app/",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Insta Shop"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "عبدالرحمن إبراهيم محمد",
+  "url": "https://abd-elrahman-profile.vercel.app/"
+}
+</script>
 </head>
 
 <body>
