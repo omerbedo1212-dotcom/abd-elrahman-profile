@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>عبدالرحمن إبراهيم محمد | مدير مالي</title>
+
+  <meta name="description"
+        content="عبدالرحمن إبراهيم محمد - مدير مالي بخبرة في إدارة ومتابعة العمليات المالية والخزائن متعددة الفروع خلال الفترة 2024 - 2026.">
+
+  <meta name="keywords"
+        content="عبدالرحمن إبراهيم محمد, عبدالرحمن إبراهيم, مدير مالي, Insta Shop, Finance Manager">
+
+  <meta name="author" content="عبدالرحمن إبراهيم محمد">
+
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: Arial, Tahoma, sans-serif;
+      background: #080808;
+      color: #fff;
+      line-height: 1.8;
+    }
+
+    .container {
+      width: 90%;
+      max-width: 1000px;
+      margin: auto;
+    }
+
+    header {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      background:
+        radial-gradient(circle at top, #3a2b00 0%, #080808 45%);
+      padding: 30px 0;
+    }
+
+    .hero {
+      width: 100%;
+    }
+
+    .badge {
+      display: inline-block;
+      padding: 8px 18px;
+      border: 1px solid #d4af37;
+      border-radius: 30px;
+      color: #d4af37;
+      font-size: 14px;
+      margin-bottom: 25px;
+    }
+
+    h1 {
+      font-size: clamp(38px, 8vw, 72px);
+      color: #d4af37;
+      margin-bottom: 10px;
+      text-shadow: 0 0 25px rgba(212,175,55,.25);
+    }
+
+    .title {
+      font-size: clamp(20px, 4vw, 30px);
+      color: #ddd;
+      margin-bottom: 20px;
+    }
+
+    .years {
+      color: #999;
+      font-size: 17px;
+    }
+
+    .scroll {
+      margin-top: 60px;
+      color: #777;
+      font-size: 13px;
+    }
+
+    section {
+      padding: 80px 0;
+    }
+
+    .section-title {
+      color: #d4af37;
+      font-size: 32px;
+      margin-bottom: 35px;
+      text-align: center;
+    }
+
+    .card {
+      background: #111;
+      border: 1px solid #252525;
+      border-radius: 18px;
+      padding: 30px;
+      margin-bottom: 20px;
+      box-shadow: 0 10px 40px rgba(0,0,0,.3);
+    }
+
+    .card h3 {
+      color: #d4af37;
+      font-size: 23px;
+      margin-bottom: 5px;
+    }
+
+    .company {
+      color: #fff;
+      font-size: 19px;
+    }
+
+    .date {
+      color: #777;
+      margin-bottom: 20px;
+    }
+
+    ul {
+      list-style: none;
+    }
+
+    li {
+      padding: 8px 0;
+      color: #ccc;
+    }
+
+    li::before {
+      content: "◆";
+      color: #d4af37;
+      margin-left: 10px;
+      font-size: 9px;
+    }
+
+    .about {
+      color: #ccc;
+      font-size: 18px;
+      text-align: center;
+      max-width: 800px;
+      margin: auto;
+    }
+
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 15px;
+      margin-top: 30px;
+    }
+
+    .stat {
+      background: #111;
+      border: 1px solid #252525;
+      border-radius: 15px;
+      padding: 25px;
+      text-align: center;
+    }
+
+    .stat strong {
+      display: block;
+      font-size: 35px;
+      color: #d4af37;
+    }
+
+    .stat span {
+      color: #999;
+    }
+
+    footer {
+      text-align: center;
+      padding: 30px;
+      border-top: 1px solid #222;
+      color: #666;
+      font-size: 13px;
+    }
+
+    @media (max-width: 600px) {
+      .stats {
+        grid-template-columns: 1fr;
+      }
+
+      section {
+        padding: 60px 0;
+      }
+
+      .card {
+        padding: 22px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <div class="container hero">
+
+    <div class="badge">
+      PROFILE
+    </div>
+
+    <h1>عبدالرحمن إبراهيم محمد</h1>
+
+    <div class="title">
+      مدير مالي
+    </div>
+
+    <div class="years">
+      2024 — 2026
+    </div>
+
+    <div class="scroll">
+      ↓ اكتشف الخبرة المهنية
+    </div>
+
+  </div>
+</header>
+
+
+<section>
+  <div class="container">
+
+    <h2 class="section-title">
+      نبذة مهنية
+    </h2>
+
+    <p class="about">
+      عبدالرحمن إبراهيم محمد هو مدير مالي يمتلك خبرة عملية
+      في متابعة وإدارة العمليات المالية والخزائن متعددة الفروع.
+      خلال الفترة من 2024 إلى 2026، عمل في Insta Shop
+      وتولى مسؤولية متابعة خزائن 8 فروع.
+    </p>
+
+    <div class="stats">
+
+      <div class="stat">
+        <strong>8</strong>
+        <span>فروع تحت المتابعة</span>
+      </div>
+
+      <div class="stat">
+        <strong>2024–2026</strong>
+        <span>فترة الخبرة</span>
+      </div>
+
+    </div>
+
+  </div>
+</section>
+
+
+<section>
+  <div class="container">
+
+    <h2 class="section-title">
+      الخبرة المهنية
+    </h2>
+
+    <div class="card">
+
+      <h3>مدير مالي</h3>
+
+      <div class="company">
+        Insta Shop
+      </div>
+
+      <div class="date">
+        2024 — 2026
+      </div>
+
+      <ul>
+        <li>إدارة ومتابعة خزائن 8 فروع.</li>
+        <li>متابعة حركة النقدية اليومية.</li>
+        <li>مراجعة ومطابقة أرصدة الخزائن.</li>
+        <li>متابعة الإيرادات والعمليات المالية.</li>
+        <li>مراجعة الفروقات المالية ومتابعتها.</li>
+        <li>إعداد ومراجعة التقارير المالية الدورية.</li>
+        <li>التنسيق والمتابعة بين الفروع والإدارة.</li>
+      </ul>
+
+    </div>
+
+  </div>
+</section>
+
+
+<section>
+  <div class="container">
+
+    <h2 class="section-title">
+      عبدالرحمن إبراهيم محمد
+    </h2>
+
+    <p class="about">
+      خبرة في الإدارة المالية ومتابعة العمليات النقدية اليومية
+      على مستوى عدة فروع، مع التركيز على الدقة والتنظيم
+      وسرعة متابعة العمليات المالية.
+    </p>
+
+  </div>
+</section>
+
+
+<footer>
+  © 2026 عبدالرحمن إبراهيم محمد — Personal Profile
+</footer>
+
+</body>
+</html>
