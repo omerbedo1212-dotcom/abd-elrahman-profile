@@ -1,13 +1,9 @@
 {
-  "headers": [
+  "redirects": [
     {
-      "source": "/(.*\\.html)",
-      "headers": [
-        {
-          "key": "Content-Type",
-          "value": "text/html; charset=utf-8"
-        }
-      ]
+      "source": "/",
+      "destination": "/index.html",
+      "permanent": false
     }
   ]
 }
